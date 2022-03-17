@@ -4,7 +4,7 @@ I'm going to be working with the Youtube API to Scrape YouTube data using Python
 I’ll start with the first step and learn how to work with APIs in python to collect our data.
 
 ### Steps to follow :
-1. Create YouTube API Key to access youtube data
+1. Create YouTube API Key to access youtube Data
 2. Choose the channels you'd like to analyze their data
 3. Get all the videos with some general and basic information 
 4. Get in depth statistics for each video 
